@@ -1,0 +1,58 @@
+name: Generate list of inactive repos
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+        # 4.2.2
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install uv
+        # 5.4.0
+        uses: astral-sh/setup-uv@22695119d769bdb6f7032ad67b9bca0ef8c4a174
+        with:
+          version: "0.6.9"
+          enable-cache: true
+          cache-dependency-glob: |
+            **/uv.lock
+            **/pyproject.toml
+
+      - name: Install python dependencies
+        run: uv sync -v --all-groups --frozen
+
+      - name: Generate list
+        run: uv run --frozen -q generate_repo_list.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+
+      - name: Sort the list
+        run: |
+          cat inactive.txt|LC_ALL=C sort -u > inactive_tmp.txt && mv -vf inactive_tmp.txt inactive.txt
+
+      - name: Validate list
+        run: |
+          python3 .github/validate.py
+
+      - name: Set up git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push
+        run: |
+          git add inactive.txt
+          git diff-index --quiet HEAD || git commit -m "(Automated) Update list of repos"
+          git push origin HEAD:main
