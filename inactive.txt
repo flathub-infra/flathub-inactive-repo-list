@@ -36,6 +36,7 @@ fr.romainvigier.MetadataCleaner
 io.emeric.toolblex
 io.ente.auth
 io.github.Icalingua.Icalingua
+io.github.arunsivaramanneo.GPUViewer
 io.github.ciromattia.kcc
 io.github.ecotubehq.player
 io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi
