@@ -17,6 +17,7 @@ com.jetbrains.PyCharm-Community
 com.jetbrains.PyCharm-Professional
 com.jetbrains.WebStorm
 com.jianguoyun.Nutstore
+com.logseq.Logseq
 com.nextcloud.desktopclient.nextcloud
 com.nordpass.NordPass
 com.pot_app.pot
@@ -30,6 +31,7 @@ com.visualstudio.code.tool.git-lfs
 com.warlordsoftwares.jpeg2pdf
 dev.k8slens.OpenLens
 dev.opengoal.OpenGOAL
+edu.mit.Scratch
 fr.romainvigier.MetadataCleaner
 io.emeric.toolblex
 io.ente.auth
@@ -41,6 +43,7 @@ io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi
 io.github.guillaumechereau.Goxel
 io.github.hvdwofl.jExifToolGUI
 io.github.input_leap.input-leap
+io.github.kukuruzka165.materialgram
 io.github.lruzicka.Needly
 io.github.manisandro.gImageReader
 io.github.najepaliya.kleaner
@@ -57,6 +60,7 @@ io.kapsa.drive
 io.posidon.Paper
 io.wasabiwallet.WasabiWallet
 me.kozec.syncthingtk
+net.cozic.joplin_desktop
 net.devolutions.RDM
 net.granjow.slowmovideo
 net.sourceforge.Kino
@@ -98,7 +102,9 @@ org.learningequality.Kolibri
 org.nanuc.Axolotl
 org.octave.Octave
 org.openhantek.OpenHantek6022
+org.quassel_irc.QuasselClient
 org.ryujinx.Ryujinx
+org.scilab.Scilab
 org.sil.Bloom
 org.sil.dictionary-app-builder
 org.sil.scripture-app-builder
@@ -113,3 +119,4 @@ so.onekey.Wallet
 tv.plex.PlexDesktop
 tv.plex.PlexHTPC
 vet.rsc.OpenRSC.Launcher
+xyz.armcord.ArmCord
