@@ -39,7 +39,9 @@ for repo in repos:
 
     try:
         flathubbot_prs = [
-            pr for pr in repo.get_pulls(state="open") if pr.user.login == "flathubbot"
+            pr
+            for pr in repo.get_pulls(state="open")
+            if pr.user.login in ("flathubbot", "dependabot[bot]", "github-actions[bot]")
         ]
 
         if len(flathubbot_prs) < 5:
