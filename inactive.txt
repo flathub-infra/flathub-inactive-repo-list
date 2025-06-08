@@ -1,8 +1,10 @@
 app.lith.Lith
+app.openbubbles.OpenBubbles
 ar.xjuan.Cambalache
 cafe.avery.Delfin
 cc.arduino.arduinoide
 ch.protonmail.protonmail-import-export-app
+com.borgbase.Vorta
 com.cerebralnomad.recipescribe
 com.chez.GrafX2
 com.easyeda.EasyEDAPro
@@ -11,6 +13,7 @@ com.github.Anuken.Mindustry
 com.github.Murmele.scram
 com.github.chipmuenk.pyfda
 com.github.gyunaev.spivak
+com.github.iwalton3.jellyfin-mpv-shim
 com.github.junrrein.PDFSlicer
 com.github.nihui.waifu2x-ncnn-vulkan
 com.github.vkohaupt.vokoscreenNG
@@ -38,11 +41,11 @@ fr.romainvigier.MetadataCleaner
 io.emeric.toolblex
 io.github.Icalingua.Icalingua
 io.github.JaGoLi.ytdl_gui
-io.github.celluloid_player.Celluloid
+io.github.Qalculate
+io.github.Qalculate.qalculate-qt
 io.github.ciromattia.kcc
 io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi
 io.github.guillaumechereau.Goxel
-io.github.huderlem.porymap
 io.github.hvdwofl.jExifToolGUI
 io.github.input_leap.input-leap
 io.github.lruzicka.Needly
@@ -65,6 +68,7 @@ io.seamly.seamly2d
 io.wasabiwallet.WasabiWallet
 me.kozec.syncthingtk
 moe.karaokes.mugen
+net.ankiweb.Anki
 net.blix.BlueMail
 net.cozic.joplin_desktop
 net.eudic.dict
@@ -80,8 +84,9 @@ nz.mega.MEGAsync
 org.KekikAkademi.BTKSorgu
 org.asc_hq.ASC
 org.bitbucket.mystery_keeper.VapourSynthEditor
+org.cloudcompare.CloudCompare
+org.deluge_torrent.deluge
 org.dune3d.dune3d
-org.famistudio.FamiStudio
 org.fcitx.Fcitx5
 org.fcitx.Fcitx5.Addon.Chewing
 org.fcitx.Fcitx5.Addon.ChineseAddons
@@ -109,9 +114,7 @@ org.gtk.Gtk3theme.Helium-dark
 org.gtk.Gtk3theme.Orchis
 org.gtk.Gtk3theme.Orchis-Dark
 org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime
-org.kde.kwalletmanager5
 org.kde.peruse
-org.kde.skanpage
 org.kekikakademi.eFatura
 org.learningequality.Kolibri
 org.nanuc.Axolotl
@@ -130,9 +133,9 @@ org.tomviz.Tomviz
 org.tug.texworks
 org.unofficialrevport.REVHubInterface
 org.videolan.VLC
-org.wireshark.Wireshark
 sm.puri.Chatty
 so.onekey.Wallet
+tv.plex.PlexDesktop
 tv.plex.PlexHTPC
 vet.rsc.OpenRSC.Launcher
 xyz.armcord.ArmCord
