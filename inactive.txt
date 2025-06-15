@@ -10,6 +10,7 @@ com.chez.GrafX2
 com.easyeda.EasyEDAPro
 com.gitbutler.gitbutler
 com.github.Anuken.Mindustry
+com.github.Matoking.protontricks
 com.github.Murmele.scram
 com.github.chipmuenk.pyfda
 com.github.gyunaev.spivak
@@ -39,6 +40,7 @@ edu.mit.Scratch
 eu.skribisto.skribisto
 fr.romainvigier.MetadataCleaner
 io.emeric.toolblex
+io.ente.auth
 io.github.Icalingua.Icalingua
 io.github.JaGoLi.ytdl_gui
 io.github.Qalculate
@@ -56,13 +58,11 @@ io.github.nokse22.Exhibit
 io.github.nyre221.kiview
 io.github.revisto.drum-machine
 io.github.ripose_jp.Memento
-io.github.ryubing.Ryujinx
 io.github.troyeguo.koodo-reader
 io.github.veusz.Veusz
 io.gitlab.Turtlico
 io.gitlab.adhami3310.Footage
 io.gitlab.celleron56.libretile
-io.mpv.Mpv
 io.posidon.Paper
 io.seamly.seamly2d
 io.wasabiwallet.WasabiWallet
@@ -76,6 +76,7 @@ net.gaijin.WarThunder
 net.granjow.slowmovideo
 net.jenyay.Outwiker
 net.sourceforge.Kino
+net.sourceforge.Lifeograph
 net.sourceforge.lgames.LPairs2
 net.sourceforge.mcomix
 net.sourceforge.scidavis
@@ -85,13 +86,13 @@ org.KekikAkademi.BTKSorgu
 org.asc_hq.ASC
 org.bitbucket.mystery_keeper.VapourSynthEditor
 org.cloudcompare.CloudCompare
-org.deluge_torrent.deluge
 org.dune3d.dune3d
 org.fcitx.Fcitx5
 org.fcitx.Fcitx5.Addon.Chewing
 org.fcitx.Fcitx5.Addon.ChineseAddons
 org.fcitx.Fcitx5.Addon.M17N
 org.fcitx.Fcitx5.Addon.Zhuyin
+org.feichtmeier.Musicpod
 org.flowkeeper.Flowkeeper
 org.freedesktop.Platform.VulkanLayer.gamescope
 org.freedesktop.Sdk.Extension.haskell
@@ -120,6 +121,7 @@ org.learningequality.Kolibri
 org.nanuc.Axolotl
 org.openhantek.OpenHantek6022
 org.pymol.PyMOL
+org.qgis.qgis
 org.quassel_irc.QuasselClient
 org.remmina.Remmina
 org.ryujinx.Ryujinx
@@ -133,9 +135,9 @@ org.tomviz.Tomviz
 org.tug.texworks
 org.unofficialrevport.REVHubInterface
 org.videolan.VLC
+ru.linux_gaming.PortProton
 sm.puri.Chatty
 so.onekey.Wallet
 tv.plex.PlexDesktop
-tv.plex.PlexHTPC
 vet.rsc.OpenRSC.Launcher
 xyz.armcord.ArmCord
