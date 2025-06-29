@@ -11,6 +11,7 @@ com.easyeda.EasyEDAPro
 com.gitbutler.gitbutler
 com.github.Anuken.Mindustry
 com.github.Matoking.protontricks
+com.github.Murmele.Gittyup
 com.github.Murmele.scram
 com.github.chipmuenk.pyfda
 com.github.gyunaev.spivak
@@ -20,6 +21,7 @@ com.github.nihui.waifu2x-ncnn-vulkan
 com.github.vkohaupt.vokoscreenNG
 com.howlingmoonsoftware.CrayonBall
 com.jetbrains.PyCharm-Community
+com.jetbrains.RubyMine
 com.jetbrains.WebStorm
 com.jgraph.drawio.desktop
 com.jianguoyun.Nutstore
@@ -39,19 +41,21 @@ dev.k8slens.OpenLens
 edu.mit.Scratch
 eu.skribisto.skribisto
 fr.romainvigier.MetadataCleaner
+info.puredata.Pd-extended
 io.emeric.toolblex
 io.ente.auth
 io.github.Icalingua.Icalingua
 io.github.JaGoLi.ytdl_gui
 io.github.Qalculate
 io.github.Qalculate.qalculate-qt
-io.github.ciromattia.kcc
+io.github.ecotubehq.player
 io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi
 io.github.guillaumechereau.Goxel
 io.github.hvdwofl.jExifToolGUI
 io.github.input_leap.input-leap
 io.github.lruzicka.Needly
 io.github.manisandro.gImageReader
+io.github.mpc_qt.mpc-qt
 io.github.najepaliya.kleaner
 io.github.neil_morrison44.pocket-sync
 io.github.nokse22.Exhibit
@@ -70,7 +74,7 @@ me.kozec.syncthingtk
 moe.karaokes.mugen
 net.ankiweb.Anki
 net.blix.BlueMail
-net.cozic.joplin_desktop
+net.devolutions.RDM
 net.eudic.dict
 net.gaijin.WarThunder
 net.granjow.slowmovideo
@@ -109,6 +113,7 @@ org.gtk.Gtk3theme.Orchis
 org.gtk.Gtk3theme.Orchis-Dark
 org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime
 org.kde.peruse
+org.kde.pix
 org.kekikakademi.eFatura
 org.learningequality.Kolibri
 org.nanuc.Axolotl
@@ -127,6 +132,7 @@ org.tug.texworks
 org.unofficialrevport.REVHubInterface
 org.videolan.VLC
 ru.linux_gaming.PortProton
+ru.yandex.Browser
 site.someones.Lonewolf
 sm.puri.Chatty
 so.onekey.Wallet
