@@ -33,7 +33,6 @@ com.nordpass.NordPass
 com.obsproject.Studio.Plugin.AdvancedMasks
 com.realm667.Wolfenstein_Blade_of_Agony
 com.revolutionarygamesstudio.ThriveLauncher
-com.skype.Client
 com.snes9x.Snes9x
 com.unicornsonlsd.finamp
 com.valvesoftware.Steam.CompatibilityTool.Boxtron
@@ -49,12 +48,9 @@ eu.skribisto.skribisto
 in.cinny.Cinny
 info.puredata.Pd-extended
 io.emeric.toolblex
-io.ente.auth
 io.github.Icalingua.Icalingua
 io.github.JaGoLi.ytdl_gui
-io.github.arunsivaramanneo.GPUViewer
 io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi
-io.github.f3d_app.f3d
 io.github.gtkwave.GTKWave
 io.github.guillaumechereau.Goxel
 io.github.hvdwofl.jExifToolGUI
@@ -79,9 +75,7 @@ io.posidon.Paper
 io.seamly.seamly2d
 io.wasabiwallet.WasabiWallet
 me.kozec.syncthingtk
-moe.karaokes.mugen
 net.ankiweb.Anki
-net.blix.BlueMail
 net.eudic.dict
 net.gaijin.WarThunder
 net.granjow.slowmovideo
@@ -104,8 +98,8 @@ org.fcitx.Fcitx5.Addon.M17N
 org.fcitx.Fcitx5.Addon.Mozc
 org.fcitx.Fcitx5.Addon.Rime
 org.fcitx.Fcitx5.Addon.Zhuyin
-org.freedesktop.LinuxAudio.Plugins.Calf
 org.freedesktop.Platform.VulkanLayer.gamescope
+org.freedesktop.Platform.VulkanLayer.vkBasalt
 org.freedesktop.Sdk.Extension.dotnet9
 org.freedesktop.Sdk.Extension.haskell
 org.freedesktop.Sdk.Extension.ldc
@@ -120,7 +114,6 @@ org.gnome.World.Citations
 org.gnome.eog
 org.gnome.gitg
 org.gnome.gitlab.somas.Apostrophe
-org.gnuhealth.mygnuhealth
 org.godotengine.GodotSharp
 org.gtaf.quran
 org.gtk.Gtk3theme.Helium
@@ -142,7 +135,7 @@ org.sil.dictionary-app-builder
 org.sil.scripture-app-builder
 org.spyder_ide.spyder
 org.subsurface_divelog.Subsurface
-org.telegram.desktop
+org.synfig.SynfigStudio
 org.tomviz.Tomviz
 org.tug.texworks
 org.unofficialrevport.REVHubInterface
@@ -156,4 +149,3 @@ tv.kodi.Kodi
 tv.plex.PlexDesktop
 tv.plex.PlexHTPC
 vet.rsc.OpenRSC.Launcher
-xyz.armcord.ArmCord
