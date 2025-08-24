@@ -7,6 +7,7 @@ cafe.avery.Delfin
 cc.arduino.arduinoide
 ch.protonmail.protonmail-import-export-app
 com.ampl.ide
+com.bishwasaha.Koncentro
 com.borgbase.Vorta
 com.cerebralnomad.recipescribe
 com.chez.GrafX2
@@ -22,7 +23,6 @@ com.github.iwalton3.jellyfin-media-player
 com.github.iwalton3.jellyfin-mpv-shim
 com.github.junrrein.PDFSlicer
 com.github.nihui.waifu2x-ncnn-vulkan
-com.github.vkohaupt.vokoscreenNG
 com.howlingmoonsoftware.CrayonBall
 com.jetbrains.PyCharm-Community
 com.jetbrains.Rider
@@ -64,15 +64,18 @@ io.github.itprojects.MasVisGtk
 io.github.lruzicka.Needly
 io.github.manisandro.gImageReader
 io.github.najepaliya.kleaner
+io.github.neil_morrison44.pocket-sync
 io.github.nyre221.kiview
 io.github.quodlibet.ExFalso
 io.github.ripose_jp.Memento
 io.github.ryubing.Ryujinx
 io.github.troyeguo.koodo-reader
 io.github.veusz.Veusz
+io.github.yuki_iptv.yuki-iptv
 io.gitlab.Turtlico
 io.gitlab.adhami3310.Footage
 io.gitlab.celleron56.libretile
+io.kapsa.drive
 io.posidon.Paper
 io.seamly.seamly2d
 io.wasabiwallet.WasabiWallet
@@ -82,13 +85,11 @@ net.eudic.dict
 net.gaijin.WarThunder
 net.granjow.slowmovideo
 net.sourceforge.Kino
-net.sourceforge.Lifeograph
 net.sourceforge.lgames.LPairs2
 net.sourceforge.mcomix
 net.sourceforge.scidavis
 no.mifi.losslesscut
 org.KekikAkademi.BTKSorgu
-org.aegisub.Aegisub
 org.asc_hq.ASC
 org.bitbucket.mystery_keeper.VapourSynthEditor
 org.cloudcompare.CloudCompare
@@ -99,6 +100,7 @@ org.fcitx.Fcitx5.Addon.M17N
 org.fcitx.Fcitx5.Addon.Mozc
 org.fcitx.Fcitx5.Addon.Rime
 org.fcitx.Fcitx5.Addon.Zhuyin
+org.feichtmeier.Musicpod
 org.filezillaproject.Filezilla
 org.flowkeeper.Flowkeeper
 org.freedesktop.Platform.VulkanLayer.vkBasalt
@@ -111,6 +113,7 @@ org.freedesktop.Sdk.Extension.php74
 org.getoutline.OutlineClient
 org.getoutline.OutlineManager
 org.gnome.Evince
+org.gnome.Geary
 org.gnome.Genius
 org.gnome.Notes
 org.gnome.Tali
@@ -126,7 +129,6 @@ org.gtk.Gtk3theme.Helium-dark
 org.gtk.Gtk3theme.Orchis
 org.gtk.Gtk3theme.Orchis-Dark
 org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime
-org.kde.kdevelop
 org.kekikakademi.eFatura
 org.learningequality.Kolibri
 org.lyx.LyX
@@ -140,6 +142,8 @@ org.quassel_irc.QuasselClient
 org.sabnzbd.sabnzbd
 org.scilab.Scilab
 org.sil.Bloom
+org.sil.dictionary-app-builder
+org.sil.scripture-app-builder
 org.spyder_ide.spyder
 org.sqlitebrowser.sqlitebrowser
 org.subsurface_divelog.Subsurface
@@ -152,7 +156,6 @@ rocks.syng.Syng
 ru.yandex.Browser
 site.someones.Lonewolf
 so.onekey.Wallet
-tv.plex.PlexDesktop
 tv.plex.PlexHTPC
 vet.rsc.OpenRSC.Launcher
 xyz.hyperplay.HyperPlay
