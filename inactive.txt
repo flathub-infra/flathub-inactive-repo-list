@@ -7,7 +7,6 @@ cafe.avery.Delfin
 cc.arduino.arduinoide
 ch.protonmail.protonmail-import-export-app
 com.ampl.ide
-com.bishwasaha.Koncentro
 com.borgbase.Vorta
 com.cerebralnomad.recipescribe
 com.chez.GrafX2
@@ -23,6 +22,7 @@ com.github.iwalton3.jellyfin-media-player
 com.github.iwalton3.jellyfin-mpv-shim
 com.github.junrrein.PDFSlicer
 com.github.nihui.waifu2x-ncnn-vulkan
+com.heroicgameslauncher.hgl
 com.howlingmoonsoftware.CrayonBall
 com.jetbrains.PyCharm-Community
 com.jetbrains.Rider
@@ -32,13 +32,13 @@ com.jianguoyun.Nutstore
 com.microsoft.EdgeDev
 com.nordpass.NordPass
 com.obsproject.Studio.Plugin.CompositeBlur
+com.playonlinux.PlayOnLinux4
 com.realm667.Wolfenstein_Blade_of_Agony
 com.revolutionarygamesstudio.ThriveLauncher
 com.riverbankcomputing.PyQt.BaseApp
 com.snes9x.Snes9x
 com.valvesoftware.Steam.CompatibilityTool.Boxtron
 com.vba_m.visualboyadvance-m
-com.visualstudio.code
 com.visualstudio.code-oss
 com.visualstudio.code.tool.git-lfs
 com.visualstudio.code.tool.podman
@@ -53,7 +53,8 @@ io.beekeeperstudio.Studio
 io.ente.auth
 io.github.Icalingua.Icalingua
 io.github.JaGoLi.ytdl_gui
-io.github.arunsivaramanneo.GPUViewer
+io.github.Qalculate
+io.github.Qalculate.qalculate-qt
 io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi
 io.github.f3d_app.f3d
 io.github.gtkwave.GTKWave
@@ -66,7 +67,6 @@ io.github.manisandro.gImageReader
 io.github.najepaliya.kleaner
 io.github.neil_morrison44.pocket-sync
 io.github.nyre221.kiview
-io.github.quodlibet.ExFalso
 io.github.ripose_jp.Memento
 io.github.ryubing.Ryujinx
 io.github.troyeguo.koodo-reader
@@ -75,7 +75,6 @@ io.github.yuki_iptv.yuki-iptv
 io.gitlab.Turtlico
 io.gitlab.adhami3310.Footage
 io.gitlab.celleron56.libretile
-io.kapsa.drive
 io.posidon.Paper
 io.seamly.seamly2d
 io.wasabiwallet.WasabiWallet
@@ -131,7 +130,6 @@ org.gtk.Gtk3theme.Orchis-Dark
 org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime
 org.kekikakademi.eFatura
 org.learningequality.Kolibri
-org.lyx.LyX
 org.nanuc.Axolotl
 org.nmap.Zenmap
 org.octave.Octave
@@ -147,11 +145,14 @@ org.sil.scripture-app-builder
 org.spyder_ide.spyder
 org.sqlitebrowser.sqlitebrowser
 org.subsurface_divelog.Subsurface
+org.swi_prolog.swipl
 org.tomviz.Tomviz
 org.tug.texworks
 org.unofficialrevport.REVHubInterface
 org.videolan.VLC
+org.virt_manager.virt-manager
 org.zim_wiki.Zim
+page.codeberg.JakobDev.jdAppStreamEdit
 rocks.syng.Syng
 ru.yandex.Browser
 site.someones.Lonewolf
