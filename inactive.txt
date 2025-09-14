@@ -1,5 +1,4 @@
 app.bluebubbles.BlueBubbles
-app.fotema.Fotema
 app.lith.Lith
 app.openbubbles.OpenBubbles
 ar.xjuan.Cambalache
@@ -33,10 +32,8 @@ com.jianguoyun.Nutstore
 com.microsoft.EdgeDev
 com.nordpass.NordPass
 com.obsproject.Studio.Plugin.CompositeBlur
-com.playonlinux.PlayOnLinux4
 com.realm667.Wolfenstein_Blade_of_Agony
 com.revolutionarygamesstudio.ThriveLauncher
-com.riverbankcomputing.PyQt.BaseApp
 com.snes9x.Snes9x
 com.unicornsonlsd.finamp
 com.valvesoftware.Steam.CompatibilityTool.Boxtron
@@ -50,7 +47,6 @@ dev.overlayed.Overlayed
 edu.mit.Scratch
 eu.skribisto.skribisto
 info.puredata.Pd-extended
-io.beekeeperstudio.Studio
 io.ente.auth
 io.github.Icalingua.Icalingua
 io.github.JaGoLi.ytdl_gui
@@ -70,8 +66,10 @@ io.github.manisandro.gImageReader
 io.github.najepaliya.kleaner
 io.github.neil_morrison44.pocket-sync
 io.github.nyre221.kiview
+io.github.pyfa_org.Pyfa
 io.github.ripose_jp.Memento
 io.github.ryubing.Ryujinx
+io.github.slgobinath.SafeEyes
 io.github.troyeguo.koodo-reader
 io.github.veusz.Veusz
 io.github.yuki_iptv.yuki-iptv
@@ -90,6 +88,7 @@ net.eudic.dict
 net.gaijin.WarThunder
 net.granjow.slowmovideo
 net.sourceforge.Kino
+net.sourceforge.Lifeograph
 net.sourceforge.lgames.LPairs2
 net.sourceforge.mcomix
 net.sourceforge.scidavis
@@ -106,7 +105,6 @@ org.fcitx.Fcitx5.Addon.Mozc
 org.fcitx.Fcitx5.Addon.Rime
 org.fcitx.Fcitx5.Addon.Zhuyin
 org.feichtmeier.Musicpod
-org.flowkeeper.Flowkeeper
 org.freedesktop.Platform.VulkanLayer.vkBasalt
 org.freedesktop.Sdk.Extension.dotnet9
 org.freedesktop.Sdk.Extension.haskell
@@ -124,7 +122,6 @@ org.gnome.Tali
 org.gnome.World.Citations
 org.gnome.eog
 org.gnome.gitg
-org.gnome.gitlab.somas.Apostrophe
 org.godotengine.GodotSharp
 org.gtaf.quran
 org.gtk.Gtk3theme.Helium
@@ -139,6 +136,7 @@ org.octave.Octave
 org.openhantek.OpenHantek6022
 org.paraview.ParaView
 org.pymol.PyMOL
+org.qgis.qgis
 org.quassel_irc.QuasselClient
 org.remmina.Remmina
 org.sabnzbd.sabnzbd
@@ -152,12 +150,12 @@ org.tomviz.Tomviz
 org.tug.texworks
 org.unofficialrevport.REVHubInterface
 org.videolan.VLC
-org.virt_manager.virt-manager
 org.zim_wiki.Zim
-page.codeberg.JakobDev.jdAppStreamEdit
 rocks.syng.Syng
 ru.linux_gaming.PortProton
 site.someones.Lonewolf
 so.onekey.Wallet
+tv.plex.PlexDesktop
 tv.plex.PlexHTPC
+us.zoom.Zoom
 vet.rsc.OpenRSC.Launcher
