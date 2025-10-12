@@ -2,12 +2,12 @@ app.bluebubbles.BlueBubbles
 app.lith.Lith
 app.openbubbles.OpenBubbles
 ar.xjuan.Cambalache
+ca.edestcroix.Recordbox
 cafe.avery.Delfin
 com.ampl.ide
 com.borgbase.Vorta
 com.cerebralnomad.recipescribe
 com.chez.GrafX2
-com.devolutions.remotedesktopmanager
 com.easyeda.EasyEDAPro
 com.feaneron.Boatswain
 com.gitbutler.gitbutler
@@ -30,6 +30,7 @@ com.microsoft.EdgeDev
 com.ml4w.dotfilesinstaller
 com.modrinth.ModrinthApp
 com.obsproject.Studio.Plugin.CompositeBlur
+com.plexamp.Plexamp
 com.protonvpn.www
 com.realm667.Wolfenstein_Blade_of_Agony
 com.snes9x.Snes9x
@@ -51,7 +52,6 @@ io.github.Qalculate
 io.github.Qalculate.qalculate-qt
 io.github.celluloid_player.Celluloid
 io.github.ciromattia.kcc
-io.github.endless_sky.endless_sky.plugins.endless_sky_high_dpi
 io.github.f3d_app.f3d
 io.github.gtkwave.GTKWave
 io.github.guillaumechereau.Goxel
@@ -69,13 +69,13 @@ io.gitlab.adhami3310.Footage
 io.gitlab.celleron56.libretile
 io.mpv.Mpv
 io.posidon.Paper
-io.seamly.seamly2d
 io.wasabiwallet.WasabiWallet
 io.wavebox.Wavebox
 me.kozec.syncthingtk
 moe.karaokes.mugen
 net.devolutions.RDM
 net.eudic.dict
+net.gaijin.WarThunder
 net.granjow.slowmovideo
 net.sourceforge.Kino
 net.sourceforge.Lifeograph
@@ -85,6 +85,8 @@ net.sourceforge.scidavis
 no.mifi.losslesscut
 org.KekikAkademi.BTKSorgu
 org.asc_hq.ASC
+org.bitbucket.mystery_keeper.VapourSynthEditor
+org.darktable.Darktable
 org.deluge_torrent.deluge
 org.dune3d.dune3d
 org.famistudio.FamiStudio
@@ -94,8 +96,7 @@ org.fcitx.Fcitx5.Addon.Mozc
 org.fcitx.Fcitx5.Addon.Rime
 org.fcitx.Fcitx5.Addon.Zhuyin
 org.feichtmeier.Musicpod
-org.flathub.flatpak-external-data-checker
-org.freedesktop.Sdk.Extension.dotnet9
+org.filezillaproject.Filezilla
 org.freedesktop.Sdk.Extension.haskell
 org.freedesktop.Sdk.Extension.ldc
 org.freedesktop.Sdk.Extension.node18
@@ -103,7 +104,6 @@ org.freedesktop.Sdk.Extension.php73
 org.freedesktop.Sdk.Extension.php74
 org.getoutline.OutlineClient
 org.getoutline.OutlineManager
-org.gnome.Geary
 org.gnome.Genius
 org.gnome.Notes
 org.gnome.Tali
@@ -118,6 +118,7 @@ org.gtk.Gtk3theme.Orchis-Dark
 org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime
 org.kekikakademi.eFatura
 org.learningequality.Kolibri
+org.lyx.LyX
 org.nanuc.Axolotl
 org.octave.Octave
 org.openhantek.OpenHantek6022
@@ -130,6 +131,7 @@ org.scilab.Scilab
 org.sil.Bloom
 org.sil.dictionary-app-builder
 org.sil.scripture-app-builder
+org.spyder_ide.spyder
 org.sqlitebrowser.sqlitebrowser
 org.subsurface_divelog.Subsurface
 org.synfig.SynfigStudio
@@ -137,8 +139,6 @@ org.tomviz.Tomviz
 org.tug.texworks
 org.unofficialrevport.REVHubInterface
 org.videolan.VLC
-org.zim_wiki.Zim
-rocks.syng.Syng
 ru.linux_gaming.PortProton
 site.someones.Lonewolf
 so.onekey.Wallet
