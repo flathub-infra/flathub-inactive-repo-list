@@ -13,7 +13,6 @@ com.chez.GrafX2
 com.easyeda.EasyEDAPro
 com.emqx.MQTTX
 com.feaneron.Boatswain
-com.gitbutler.gitbutler
 com.github.Murmele.Gittyup
 com.github.Murmele.scram
 com.github.chipmuenk.pyfda
@@ -46,7 +45,6 @@ dev.opengoal.OpenGOAL
 dev.overlayed.Overlayed
 edu.mit.Scratch
 eu.skribisto.skribisto
-gg.norisk.NoRiskClientLauncherV3
 io.atom.Atom
 io.beekeeperstudio.Studio
 io.github.BuddySirJava.SSH-Studio
@@ -58,7 +56,6 @@ io.github.jeffshee.Hidamari
 io.github.lruzicka.Needly
 io.github.manisandro.gImageReader
 io.github.najepaliya.kleaner
-io.github.neil_morrison44.pocket-sync
 io.github.nyre221.kiview
 io.github.ripose_jp.Memento
 io.github.ryubing.Ryujinx
@@ -69,14 +66,13 @@ io.gitlab.Turtlico
 io.gitlab.adhami3310.Footage
 io.gitlab.celleron56.libretile
 io.posidon.Paper
+io.seamly.seamly2d
 io.sourceforge.qoobar.Qoobar
 io.wasabiwallet.WasabiWallet
 io.wavebox.Wavebox
 moe.karaokes.mugen
-net.ankiweb.Anki
 net.blix.BlueMail
 net.devolutions.RDM
-net.eudic.dict
 net.granjow.slowmovideo
 net.sourceforge.Kino
 net.sourceforge.Lifeograph
@@ -98,6 +94,7 @@ org.fcitx.Fcitx5.Addon.Rime
 org.fcitx.Fcitx5.Addon.Zhuyin
 org.filezillaproject.Filezilla
 org.flowkeeper.Flowkeeper
+org.freedesktop.Sdk.Extension.dotnet8
 org.freedesktop.Sdk.Extension.haskell
 org.freedesktop.Sdk.Extension.ldc
 org.freedesktop.Sdk.Extension.node18
@@ -123,18 +120,12 @@ org.gtk.Gtk3theme.Helium-dark
 org.gtk.Gtk3theme.Orchis
 org.gtk.Gtk3theme.Orchis-Dark
 org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime
-org.kde.akregator
-org.kde.kdevelop
-org.kde.kwalletmanager5
 org.kekikakademi.eFatura
 org.learningequality.Kolibri
 org.lyx.LyX
 org.openhantek.OpenHantek6022
 org.quassel_irc.QuasselClient
-org.remmina.Remmina
 org.sil.Bloom
-org.sil.dictionary-app-builder
-org.sil.scripture-app-builder
 org.subsurface_divelog.Subsurface
 org.tomviz.Tomviz
 org.tug.texworks
