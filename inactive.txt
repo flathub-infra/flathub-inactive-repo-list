@@ -1,5 +1,6 @@
 com.logseq.Logseq
+com.obsproject.Studio.Plugin.CompositeBlur
+com.playonlinux.PlayOnLinux4
 com.riverbankcomputing.PyQt.BaseApp
 com.visualstudio.code.tool.podman
-net.gaijin.WarThunder
-org.freedesktop.Sdk.Extension.dotnet8
+gg.norisk.NoRiskClientLauncherV3
