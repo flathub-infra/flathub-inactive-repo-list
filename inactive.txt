@@ -1,6 +1,7 @@
+app.bluebubbles.BlueBubbles
+com.bishwasaha.Koncentro
 com.logseq.Logseq
-com.obsproject.Studio.Plugin.CompositeBlur
-com.playonlinux.PlayOnLinux4
-com.riverbankcomputing.PyQt.BaseApp
 com.visualstudio.code.tool.podman
-gg.norisk.NoRiskClientLauncherV3
+moe.karaokes.mugen
+org.flathub.flatpak-external-data-checker
+org.freedesktop.Sdk.Extension.dotnet9
