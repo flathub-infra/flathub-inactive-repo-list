@@ -1,7 +1,3 @@
 app.bluebubbles.BlueBubbles
 com.bishwasaha.Koncentro
-com.logseq.Logseq
-com.visualstudio.code.tool.podman
 moe.karaokes.mugen
-org.flathub.flatpak-external-data-checker
-org.freedesktop.Sdk.Extension.dotnet9
