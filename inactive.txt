@@ -1,3 +1,7 @@
 app.bluebubbles.BlueBubbles
 com.bishwasaha.Koncentro
 moe.karaokes.mugen
+org.freedesktop.Sdk.Extension.vala
+org.spyder_ide.spyder
+org.videolan.VLC
+tv.kodi.Kodi
