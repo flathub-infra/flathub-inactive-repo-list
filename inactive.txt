@@ -1,7 +1,12 @@
 app.bluebubbles.BlueBubbles
 com.bishwasaha.Koncentro
+com.playonlinux.PlayOnLinux4
+io.github.zefr0x.hashes
 moe.karaokes.mugen
+net.rpcs3.RPCS3
+org.freedesktop.Sdk.Extension.php82
 org.freedesktop.Sdk.Extension.vala
+org.sil.scripture-app-builder
 org.spyder_ide.spyder
 org.videolan.VLC
 tv.kodi.Kodi
