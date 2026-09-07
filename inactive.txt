@@ -18,7 +18,6 @@ io.github.manisandro.gImageReader
 io.github.mlm_games.mages
 io.gitlab.metadatacleaner.metadatacleaner
 io.mango3d.LycheeSlicer
-land.arcana.TarotCanvas
 org.freedesktop.Sdk.Extension.php82
 org.freedesktop.Sdk.Extension.vala
 org.jellyfin.JellyfinDesktop
