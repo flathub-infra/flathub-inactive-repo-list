@@ -1,3 +1,5 @@
+# This functionality now lives in [flathub-infra/vorarbeiter](https://github.com/flathub-infra/vorarbeiter)
+
 This script generates a list of 'inactive' repositories in the Flathub
 GitHub organisation which are then excluded from the global
 external-data-checker action.
